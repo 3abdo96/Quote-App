@@ -1,0 +1,18 @@
+.box h1 {
+    font-size: 80px;
+}
+
+p {
+    font-size: 35px;
+}
+
+.box button {
+    width: 250px;
+    height: 80px;
+    background-color: blue;
+    color: #fff;
+}
+
+.box button:hover{
+    background-color: green;
+}
